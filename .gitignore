@@ -1,0 +1,11 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled files
+bin/
+target/
+
+# OS files
+.DS_Store
